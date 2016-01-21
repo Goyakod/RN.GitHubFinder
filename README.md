@@ -1,2 +1,2 @@
 # RN.GitHubFinder
-a simple react native demo 
+a simple react native iOS demo 
